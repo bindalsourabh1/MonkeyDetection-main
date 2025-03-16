@@ -18,6 +18,6 @@ Developed specifically for areas prone to monkey disturbances, this system helps
 * **Hardware**: Raspberry Pi (for deployment)
 
 ## Live Demo
-Try the system yourself: 
+Try the system yourself: [Monkey Detection](https://monkey-detection.vercel.app/)
 
 **Note:** For the live demo, you can use sample images of monkeys or test with your webcam. Permission will be requested to access your camera. For privacy reasons, no video data is stored on our servers.
